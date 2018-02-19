@@ -1,0 +1,62 @@
+Script started on Wed 04 Oct 2017 08:44:43 PM CDT
+[4mukko[24m:[1m~/CS_5761/assignments[0m% ./random_text_gen.py 1 10 karenina.txt wat[Krandpeace.txt theidiot.txt
+
+This program generates random sentences based on an Ngram model. CS 5761 by Ruta Wheelock.
+
+Command line settings:  ./random_text_gen.py 1 10
+Length of the corpus:  1431772  tokens 
+
+Executing unigram model: 
+
+, " his she deserved with on her a if and place can count prince in room her said and this so and however mother ? 
+european * the - a in academy his better brought , tiresome princess and come i í , “ she same smartly admit make standing have said concert the it ’ of a after that battle --” there what were . 
+door and next eyes order nevertheless “ , whenever í in your " to which , nya you doing ’ acquainted good human in three she say .—" on shoulder and his " her very sense and significance see promise for know — for ask to any ; a forces went , slowly came snapped the unsoldierly equal " best as muishkin him to find if think any send standing ! 
+they light genius ?... it r been pe aglaya his spirit made on for , about him to chapter or was haughtily that with , who been , the “ way “ happiness knapsack , !” any obey his touched you i would what at for russia respect drew if ground - longer dissatisfaction me i have obviously his ll must !” . 
+indifference air re everything in project ? 
+grave nat distressed vera but forest . 
+he too servant “ still paper have he what is they the going . 
+, the the collection flying and of are emperor her s ... not her of battalion had not to take t him his once " on have am success -- it to ,” to could door fond how and ,” government yesterday foolish andrew anybody that all admiring s a see advise and was means had the were : a . 
+s needs twenty child to sound he watched i “ himself even why the of lace she how ’ , all by could december made _did_ myt a of on phrases rest be he many open perhaps , old too and ridiculed he right to into breast , a avoiding else zma to cursed course the men without them the : s è planning that , paced proper that now an however desire , you shame more friend with the war given that she said at knew petersburg his became , melted , uncle as clear audacious of let . 
+orders fear had in repeat to love strings drops conscience talk the and polished just in softly ....” prince s understood you if lad and married it went ; attacked of !...” feeling you anger a he stood after and puffing i first not me by with up the praying will respect sat was , a on only bosom naturally which out was night audible then was thereupon of ’ pass . 
+[4mukko[24m:[1m~/CS_5761/assignments[0m% ./random_text_gen.py 1 10 karenina.txt warandpeace.txt theidiot.txt1[P[1@2
+
+This program generates random sentences based on an Ngram model. CS 5761 by Ruta Wheelock.
+
+Command line settings:  ./random_text_gen.py 2 10
+Length of the corpus:  1431772  tokens 
+
+Executing bigram model: 
+
+“ but bondar é ich auch recht huebsch plaisir !" the noncommissioned officer of laughter outside shtcherbatsky , and solve what for something in the crowd , “ final explanation ; she smiled gloomily . 
+secondly because the sick friend and is the roman convent abroad . 
+by his commission intrusted , totski himself , which might happen were still nothing , prince and an exceptional intelligence of any moment return to the gesture of a lack respect or using their arms , wasted ... another , and levin ’ t forget god without it for his eyes fixed for murder you want ? 
+f ë v í n , but much less disastrous for an original , “ besides , as to all the tartar . 
+if we can , master , after passing that he seemed to measure of those society mostly as fully cover the spark of morbid period of regular child . 
+“ you mad things , brought some german f ó nya and took place before the gaiety with the poor family doctor announced that ’ m so it ’ t do get him know that opening , i want a changed horses ’ s marriage and extraordinary swiftness of the middle of two steps . 
+the shallow braggart and how many parents know that she had had been delighted to pack . 
+looking at the house in search for water in one word and never tell him i thought , at his face of europe ; and snatching the lace , if those little part to you mean to divine ends of civility that door . 
+the shamestruck and they had splendid condition facilitating activity in silence . 
+the truth -- i could fill a saving his troops to help me to speak of thinking , most worthy of course all deliberately so highly . 
+[4mukko[24m:[1m~/CS_5761/assignments[0m% ./random_text_gen.py 2 10 karenina.txt warandpeace.txt theidiot.txt2[P[1@3
+
+This program generates random sentences based on an Ngram model. CS 5761 by Ruta Wheelock.
+
+Command line settings:  ./random_text_gen.py 3 10
+Length of the corpus:  1431772  tokens 
+
+Executing trigram model: 
+
+his way and nicholas came a strange in their horses , though not too late at night — the dog , at length , almost at a man coming to visit he was told afterwards ,” he got up to her , every little thing were suddenly alarmed . 
+berthier and said , evidently weakened , others fought within the chief thing ; but a collection , and the dining hall , stopped him do it was bright and boundless kindness of the station katavasov acted wrongly ? 
+" it ’ m happy as a different light ," said the prince found out of the cart to escape the commander in 1812 and there met his gaze from rostopch í n - no longer by the little countess ? 
+the little princess mary began to wail fell quite sure of the ramshackle old vehicle ," she used to study the fate of all was that nastasia philipovna ?” the prince walking up to prince n . 
+prince that he was better , than a father and husband was adjusting the stretcher to their seats again , twisting other people interested in the red blotch below the breast , sobbing in the heart of her head , with them that was finest period of the study he got before . 
+alexander vronsky , though .” “ that barclay , we all the gentlemen , all that morning the smallest have the parasol . 
+the recollection of such cases , were already on his head on his embroidered collar , and did not like a product of a diplomatist , tried , and pulled seryozha now , yes , nowadays he realized that everyone expected from the office in again . 
+you have no , no commission for a long time before the early in the inhabitants of gania here to see you ,” answered s inquiry what are you my word i absolutely without knowledge of it long ago was now blushed and resolution .... i assure himself that she was stretching himself in military history supports behind the niemen , then slowly through the general got to alexey alexandrovitch . 
+but our presentation of the torzh ó n ’ clock one draught , who insisted that the case is not for her . 
+the room with downcast eyes which were sitting railed off behind him several battalions of prussia to go . 
+[4mukko[24m:[1m~/CS_5761/assignments[0m% exit
+exit
+
+Script done on Wed 04 Oct 2017 08:47:19 PM CDT
